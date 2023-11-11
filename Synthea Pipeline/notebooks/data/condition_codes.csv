@@ -1,0 +1,181 @@
+,CODE,DESCRIPTION
+0,65363002,Otitis media
+2,386661006,Fever (finding)
+3,840544004,Suspected COVID-19
+4,840539006,COVID-19
+5,44465007,Sprain of ankle
+6,49727002,Cough (finding)
+7,248595008,Sputum finding (finding)
+8,267060006,Diarrhea symptom (finding)
+12,43878008,Streptococcal sore throat (disorder)
+13,59621000,Hypertension
+14,444814009,Viral sinusitis (disorder)
+15,25064002,Headache (finding)
+17,84229001,Fatigue (finding)
+18,422587007,Nausea (finding)
+19,249497008,Vomiting symptom (finding)
+21,36955009,Loss of taste (finding)
+31,68235000,Nasal congestion (finding)
+38,267036007,Dyspnea (finding)
+39,56018004,Wheezing (finding)
+43,233604007,Pneumonia (disorder)
+44,389087006,Hypoxemia (disorder)
+45,271825005,Respiratory distress (finding)
+46,706870000,Acute pulmonary embolism (disorder)
+51,68962001,Muscle pain (finding)
+52,57676002,Joint pain (finding)
+57,162864005,Body mass index 30+ - obesity (finding)
+58,15777000,Prediabetes
+59,58150001,Fracture of clavicle
+61,267102003,Sore throat symptom (finding)
+65,275272006,Brain damage - traumatic
+66,72892002,Normal pregnancy
+67,19169002,Miscarriage in first trimester
+94,271737000,Anemia (disorder)
+95,230690007,Stroke
+106,195662009,Acute viral pharyngitis (disorder)
+107,446096008,Perennial allergic rhinitis
+109,87433001,Pulmonary emphysema (disorder)
+116,40055000,Chronic sinusitis (disorder)
+119,53741008,Coronary Heart Disease
+131,770349000,Sepsis caused by virus (disorder)
+134,233678006,Childhood asthma
+135,254837009,Malignant neoplasm of breast (disorder)
+155,55680006,Drug overdose
+163,410429000,Cardiac Arrest
+164,429007001,History of cardiac arrest (situation)
+166,239873007,Osteoarthritis of knee
+183,232353008,Perennial allergic rhinitis with seasonal variation
+188,239872002,Osteoarthritis of hip
+207,55822004,Hyperlipidemia
+257,24079001,Atopic dermatitis
+258,367498001,Seasonal allergic rhinitis
+262,124171000119105,Chronic intractable migraine without aura
+273,197927001,Recurrent urinary tract infection
+274,79586000,Tubal pregnancy
+283,43724002,Chill (finding)
+307,10509002,Acute bronchitis (disorder)
+341,65710008,Acute respiratory failure (disorder)
+406,76571007,Septic shock (disorder)
+407,40095003,Injury of kidney (disorder)
+408,86175003,Injury of heart (disorder)
+409,84114007,Heart failure (disorder)
+410,67782005,Acute respiratory distress syndrome (disorder)
+423,44054006,Diabetes
+424,302870006,Hypertriglyceridemia (disorder)
+425,422034002,Diabetic retinopathy associated with type II diabetes mellitus (disorder)
+426,80394007,Hyperglycemia (disorder)
+427,237602007,Metabolic syndrome X (disorder)
+440,1551000119108,Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder)
+475,196416002,Impacted molars
+519,66857006,Hemoptysis (finding)
+545,64859006,Osteoporosis (disorder)
+557,128613002,Seizure disorder
+558,703151001,History of single seizure (situation)
+561,75498004,Acute bacterial sinusitis (disorder)
+579,368581000119106,Neuropathy due to type 2 diabetes mellitus (disorder)
+580,1501000119109,Proliferative diabetic retinopathy due to type II diabetes mellitus (disorder)
+581,201834006,Localized  primary osteoarthritis of the hand
+584,84757009,Epilepsy
+677,49436004,Atrial Fibrillation
+692,234466008,Acquired coagulation disorder (disorder)
+723,68496003,Polyp of colon
+724,713197008,Recurrent rectal polyp
+735,132281000119108,Acute deep venous thrombosis (disorder)
+747,398254007,Preeclampsia
+748,283385000,Laceration of thigh
+761,22298006,Myocardial Infarction
+762,399211009,History of myocardial infarction (situation)
+785,88805009,Chronic congestive heart failure (disorder)
+789,156073000,Fetus with unknown complication
+820,192127007,Child attention deficit disorder
+845,162573006,Suspected lung cancer (situation)
+846,254632001,Small cell carcinoma of lung (disorder)
+847,67811000119102,Primary small cell malignant neoplasm of lung  TNM stage 1 (disorder)
+849,62564004,Concussion with loss of consciousness
+851,62106007,Concussion with no loss of consciousness
+869,431855005,Chronic kidney disease stage 1 (disorder)
+870,127013003,Diabetic renal disease (disorder)
+871,431856006,Chronic kidney disease stage 2 (disorder)
+872,90781000119102,Microalbuminuria due to type 2 diabetes mellitus (disorder)
+874,82423001,Chronic pain
+895,87628006,Bacterial infectious disease (disorder)
+909,126906006,Neoplasm of prostate
+910,92691004,Carcinoma in situ of prostate (disorder)
+947,241929008,Acute allergic reaction
+991,26929004,Alzheimer's disease (disorder)
+1002,74400008,Appendicitis
+1003,428251008,History of appendectomy
+1095,185086009,Chronic obstructive bronchitis (disorder)
+1129,403191005,Second degree burn
+1149,408512008,Body mass index 40+ - severely obese (finding)
+1187,233604007,Pneumonia
+1219,230265002,Familial Alzheimer's disease of early onset (disorder)
+1231,36971009,Sinusitis (disorder)
+1242,65966004,Fracture of forearm
+1302,47693006,Rupture of appendix
+1355,284551006,Laceration of foot
+1369,283371005,Laceration of forearm
+1496,263102004,Fracture subluxation of wrist
+1579,254637007,Non-small cell lung cancer (disorder)
+1581,424132000,Non-small cell carcinoma of lung  TNM stage 1 (disorder)
+1614,83664006,Idiopathic atrophic hypothyroidism
+1656,48333001,Burn injury(morphologic abnormality)
+1714,6072007,Bleeding from anus
+1715,236077008,Protracted diarrhea
+1755,70704007,Sprain of wrist
+1988,698754002,Chronic paralysis due to lesion of spinal cord
+2108,109838007,Overlapping malignant neoplasm of colon
+2125,363406005,Malignant tumor of colon
+2129,301011002,Escherichia coli urinary tract infection
+2136,90560007,Gout
+2139,443165006,Pathological fracture due to osteoporosis (disorder)
+2151,16114001,Fracture of ankle
+2349,39848009,Whiplash injury to neck
+2494,127295002,Traumatic brain injury (disorder)
+2500,33737001,Fracture of rib
+2652,7200002,Alcoholism
+2734,262574004,Bullet wound
+2789,449868002,Smokes tobacco daily
+2813,370247008,Facial laceration
+2871,307731004,Injury of tendon of the rotator cuff of shoulder
+3070,284549007,Laceration of hand
+3130,97331000119101,Macular edema and retinopathy due to type 2 diabetes mellitus (disorder)
+3329,195967001,Asthma
+3488,370143000,Major depression disorder
+3541,95417003,Primary fibromyalgia syndrome
+3804,314994000,Metastasis from malignant tumor of prostate (disorder)
+4012,38822007,Cystitis
+4165,403190006,First degree burn
+4605,5602001,Opioid abuse (disorder)
+5528,110030002,Concussion injury of brain
+5601,359817006,Closed fracture of hip
+5879,246677007,Passive conjunctival congestion (finding)
+5901,40275004,Contact dermatitis
+6067,444448004,Injury of medial collateral ligament of knee
+6110,69896004,Rheumatoid arthritis
+6114,93761005,Primary malignant neoplasm of colon
+6782,225444004,At risk for suicide (finding)
+6815,30832001,Rupture of patellar tendon
+7459,35999006,Blighted ovum
+7976,94260004,Secondary malignant neoplasm of colon
+8870,47200007,Non-low risk pregnancy
+19145,429280009,History of amputation of foot (situation)
+19336,1734006,Fracture of the vertebral column with spinal cord injury
+21141,161622006,History of lower limb amputation (situation)
+24226,198992004,Antepartum eclampsia
+24640,200936003,Lupus erythematosus
+25138,444470001,Injury of anterior cruciate ligament
+30044,433144002,Chronic kidney disease stage 3 (disorder)
+30047,157141000119108,Proteinuria due to type 2 diabetes mellitus (disorder)
+30368,403192003,Third degree burn
+32945,239720000,Tear of meniscus of knee
+41949,47505003,Posttraumatic stress disorder
+47274,707577004,Female Infertility
+47275,190905008,Cystic Fibrosis
+47276,427089005,Diabetes from Cystic Fibrosis
+51102,60951000119105,Blindness due to type 2 diabetes mellitus (disorder)
+53205,698423002,History of disarticulation at wrist (situation)
+61783,427089005,Male Infertility
+75215,65275009,Acute Cholecystitis
+75216,235919008,Cholelithiasis

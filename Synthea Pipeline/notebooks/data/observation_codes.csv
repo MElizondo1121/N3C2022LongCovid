@@ -1,0 +1,211 @@
+,CODE,DESCRIPTION
+0,8302-2,Body Height
+1,72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported
+2,29463-7,Body Weight
+3,77606-2,Weight-for-length Per age and sex
+4,9843-4,Head Occipital-frontal circumference
+5,8462-4,Diastolic Blood Pressure
+6,8480-6,Systolic Blood Pressure
+7,8867-4,Heart rate
+8,9279-1,Respiratory rate
+9,72166-2,Tobacco smoking status NHIS
+15,39156-5,Body Mass Index
+16,59576-9,Body mass index (BMI) [Percentile] Per age and gender
+22,8310-5,Body temperature
+25,2708-6,Oxygen saturation in Arterial blood
+29,92142-9,Influenza virus A RNA [Presence] in Respiratory specimen by NAA with probe detection
+30,92141-1,Influenza virus B RNA [Presence] in Respiratory specimen by NAA with probe detection
+31,92131-2,Respiratory syncytial virus RNA [Presence] in Respiratory specimen by NAA with probe detection
+32,92140-3,Parainfluenza virus 1 RNA [Presence] in Respiratory specimen by NAA with probe detection
+33,92139-5,Parainfluenza virus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection
+34,92138-7,Parainfluenza virus 3 RNA [Presence] in Respiratory specimen by NAA with probe detection
+35,92130-4,Rhinovirus RNA [Presence] in Respiratory specimen by NAA with probe detection
+36,92134-6,Human metapneumovirus RNA [Presence] in Respiratory specimen by NAA with probe detection
+37,94040-3,Adenovirus A+B+C+D+E DNA [Presence] in Respiratory specimen by NAA with probe detection
+38,94531-1,SARS-CoV-2 RNA Pnl Resp NAA+probe
+39,QALY,QALY
+40,DALY,DALY
+41,QOLS,QOLS
+115,6690-2,Leukocytes [#/volume] in Blood by Automated count
+117,789-8,Erythrocytes [#/volume] in Blood by Automated count
+120,718-7,Hemoglobin [Mass/volume] in Blood
+122,4544-3,Hematocrit [Volume Fraction] of Blood by Automated count
+125,787-2,MCV [Entitic volume] by Automated count
+127,785-6,MCH [Entitic mass] by Automated count
+128,786-4,MCHC [Mass/volume] by Automated count
+132,21000-5,Erythrocyte distribution width [Entitic volume] by Automated count
+133,777-3,Platelets [#/volume] in Blood by Automated count
+134,32207-3,Platelet distribution width [Entitic volume] in Blood by Automated count
+135,32623-1,Platelet mean volume [Entitic volume] in Blood by Automated count
+164,80382-5,Influenza virus A Ag [Presence] in Nasopharynx by Rapid immunoassay
+165,80383-3,Influenza virus B Ag [Presence] in Nasopharynx by Rapid immunoassay
+265,788-0,Erythrocyte distribution width [Ratio] by Automated count
+267,770-8,Neutrophils/100 leukocytes in Blood by Automated count
+268,736-9,Lymphocytes/100 leukocytes in Blood by Automated count
+269,5905-5,Monocytes/100 leukocytes in Blood by Automated count
+270,713-8,Eosinophils/100 leukocytes in Blood by Automated count
+271,706-2,Basophils/100 leukocytes in Blood by Automated count
+272,751-8,Neutrophils [#/volume] in Blood by Automated count
+273,731-0,Lymphocytes [#/volume] in Blood by Automated count
+274,742-7,Monocytes [#/volume] in Blood by Automated count
+275,711-2,Eosinophils [#/volume] in Blood by Automated count
+276,704-7,Basophils [#/volume] in Blood by Automated count
+277,2345-7,Glucose [Mass/volume] in Serum or Plasma
+278,3094-0,Urea nitrogen [Mass/volume] in Serum or Plasma
+279,2160-0,Creatinine [Mass/volume] in Serum or Plasma
+280,17861-6,Calcium [Mass/volume] in Serum or Plasma
+281,2951-2,Sodium [Moles/volume] in Serum or Plasma
+282,2823-3,Potassium [Moles/volume] in Serum or Plasma
+283,2075-0,Chloride [Moles/volume] in Serum or Plasma
+284,2028-9,Carbon dioxide  total [Moles/volume] in Serum or Plasma
+285,33914-3,Glomerular filtration rate/1.73 sq M.predicted
+286,2885-2,Protein [Mass/volume] in Serum or Plasma
+287,1751-7,Albumin [Mass/volume] in Serum or Plasma
+288,1975-2,Bilirubin.total [Mass/volume] in Serum or Plasma
+289,6768-6,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma
+290,1742-6,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma
+291,1920-8,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma
+292,48065-7,Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma
+293,2276-4,Ferritin [Mass/volume] in Serum or Plasma
+294,89579-7,Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method
+295,14804-9,Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction
+296,2157-6,Creatine kinase [Enzymatic activity/volume] in Serum or Plasma
+297,1988-5,C reactive protein [Mass/volume] in Serum or Plasma
+298,5902-2,Prothrombin time (PT)
+299,6301-6,INR in Platelet poor plasma by Coagulation assay
+300,33959-8,Procalcitonin [Mass/volume] in Serum or Plasma
+855,69453-9,Cause of Death [US Standard Certificate of Death]
+870,19926-5,FEV1/FVC
+1608,2093-3,Total Cholesterol
+1609,2571-8,Triglycerides
+1610,18262-6,Low Density Lipoprotein Cholesterol
+1611,2085-9,High Density Lipoprotein Cholesterol
+1648,2339-0,Glucose
+1649,6299-2,Urea Nitrogen
+1650,38483-4,Creatinine
+1651,49765-1,Calcium
+1652,2947-0,Sodium
+1653,6298-4,Potassium
+1654,2069-3,Chloride
+1655,20565-8,Carbon Dioxide
+1657,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood
+2432,10834-0,Globulin [Mass/volume] in Serum by calculation
+3026,20570-8,Hematocrit [Volume Fraction] of Blood
+3027,6690-2,WBC Auto (Bld) [#/Vol]
+3028,789-8,RBC Auto (Bld) [#/Vol]
+3032,21000-5,RDW - Erythrocyte distribution width Auto (RBC) [Entitic vol]
+4342,2744-1,pH of Arterial blood
+4343,2019-8,Carbon dioxide [Partial pressure] in Arterial blood
+4344,2703-7,Oxygen [Partial pressure] in Arterial blood
+4345,1960-4,Bicarbonate [Moles/volume] in Arterial blood
+4347,19994-3,Oxygen/Inspired gas setting [Volume Fraction] Ventilator
+6421,76690-7,Sexual orientation
+6422,55277-8,HIV status
+6423,28245-9,Abuse Status [OMAHA]
+6424,71802-3,Housing status
+6425,63513-6,Are you covered by health insurance or some other kind of health care plan [PhenX]
+6426,46240-8,History of Hospitalizations+Outpatient visits
+7267,14959-1,Microalbumin Creatinine Ratio
+7279,33914-3,Estimated Glomerular Filtration Rate
+8768,88040-1,Response to cancer treatment
+9740,32465-7,Physical findings of Prostate
+9741,2857-1,Prostate specific Ag [Mass/volume] in Serum or Plasma
+12094,33762-6,NT-proBNP
+12103,10230-1,Left ventricular Ejection fraction
+13285,5767-9,Appearance of Urine
+13286,5767-9,Odor of Urine
+13287,32167-9,Clarity of Urine
+13288,5778-6,Color of Urine
+13289,5792-7,Glucose [Mass/volume] in Urine by Test strip
+13290,25428-4,Glucose [Presence] in Urine by Test strip
+13291,20505-4,Bilirubin.total [Mass/volume] in Urine by Test strip
+13292,5770-3,Bilirubin.total [Presence] in Urine by Test strip
+13293,5797-6,Ketones [Mass/volume] in Urine by Test strip
+13294,2514-8,Ketones [Presence] in Urine by Test strip
+13295,5811-5,Specific gravity of Urine by Test strip
+13296,5803-2,pH of Urine by Test strip
+13297,5804-0,Protein [Mass/volume] in Urine by Test strip
+13298,20454-5,Protein [Presence] in Urine by Test strip
+13299,5802-4,Nitrite [Presence] in Urine by Test strip
+13300,5794-3,Hemoglobin [Presence] in Urine by Test strip
+13301,5799-2,Leukocyte esterase [Presence] in Urine by Test strip
+17450,6206-7,Peanut IgE Ab in Serum
+17451,6273-7,Walnut IgE Ab in Serum
+17452,6082-2,Codfish IgE Ab in Serum
+17453,6246-3,Shrimp IgE Ab in Serum
+17454,6276-0,Wheat IgE Ab in Serum
+17455,6106-9,Egg white IgE Ab in Serum
+17456,6248-9,Soybean IgE Ab in Serum
+17457,7258-7,Cow milk IgE Ab in Serum
+17458,6189-5,White oak IgE Ab in Serum
+17459,6085-5,Common Ragweed IgE Ab in Serum
+17460,6833-8,Cat dander IgE Ab in Serum
+17461,6095-4,American house dust mite IgE Ab in Serum
+17462,6075-6,Cladosporium herbarum IgE Ab in Serum
+17463,6844-5,Honey bee IgE Ab in Serum
+17464,6158-0,Latex IgE Ab in Serum
+19755,72106-8,Total score [MMSE]
+22640,38265-5,DXA [T-score] Bone density
+29674,59557-9,Treatment status Cancer
+32980,33756-8,Polyp size greatest dimension by CAP cancer protocols
+32981,57905-2,Hemoglobin.gastrointestinal [Presence] in Stool by Immunologic method
+46475,3024-7,Thyroxine (T4) free [Mass/volume] in Serum or Plasma
+46476,3016-3,Thyrotropin [Units/volume] in Serum or Plasma
+59086,44667-4,Site of distant metastasis in Breast tumor
+59087,21907-1,Distant metastases.clinical [Class] Cancer
+59088,33728-7,Size.maximum dimension in Tumor
+59089,21905-5,Primary tumor.clinical [Class] Cancer
+59090,85352-3,Lymph nodes with isolated tumor cells [#] in Cancer specimen by Light microscopy
+59091,21906-3,Regional lymph nodes.clinical [Class] Cancer
+59092,85319-2,HER2 [Presence] in Breast cancer specimen by Immune stain
+59093,85318-4,HER2 [Presence] in Breast cancer specimen by FISH
+59094,85337-4,Estrogen receptor Ag [Presence] in Breast cancer specimen by Immune stain
+59095,85339-0,Progesterone receptor Ag [Presence] in Breast cancer specimen by Immune stain
+59096,21908-9,Stage group.clinical Cancer
+66334,74006-8,Weight difference [Mass difference] --pre dialysis - post dialysis
+120665,85344-0,Lymph nodes with micrometastases [#] in Cancer specimen by Light microscopy
+120671,10480-2,Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain
+164812,46288-7,US Guidance for biopsy of Prostate
+201954,26881-3,Interleukin 6 [Mass/volume] in Serum or Plasma
+236139,66519-0,Percentage area affected by eczema Head and Neck
+236140,66529-9,Percentage area affected by eczema Trunk
+236141,66524-0,Percentage area affected by eczema Upper extremitiy - bilateral
+236142,66534-9,Percentage area affected by eczema Lower extremitiy - bilateral
+546233,417181009,Estrogen+Progesterone receptor Ag [Presence] in Tissue by Immune stain
+546234,21924-6,Tumor marker Cancer
+618822,75443-2,Mental health Outpatient Note
+618823,84215-3,Mental health Telehealth Note
+961248,72016-9,VR-12 Physical functioning (PF) score - oblique method
+961249,72015-1,VR-12 Role physical (RP) score - oblique method
+961250,72014-4,VR-12 Bodily pain (BP) score - oblique method
+961251,72013-6,VR-12 General health (GH) score - oblique method
+961252,72012-8,VR-12 Vitality (VT) score - oblique method
+961253,72011-0,VR-12 Social functioning (SF) score - oblique method
+961254,72010-2,VR-12 Role emotion (RE) score - oblique method
+961255,72009-4,VR-12 Mental health (MH) score - oblique method
+1092484,26464-8,White Blood Cell (Elevated)
+1092485,26453-1,Red Blood Cell
+1092486,718-7,Hemoglobin
+1092487,20570-8,Hematocrit
+1092488,30428-7,MCV
+1092489,30385-9,RBC Distribution Width
+1092490,26515-7,Platelet Count
+1092491,42719-5,Total Bilirubin (Elevated)
+1092492,1742-6,ALT (Elevated)
+1092493,1920-8,AST (Elevated)
+1092494,2345-7,Glucose
+1092495,3094-0,Urea Nitrogen
+1092496,2160-0,Creatinine
+1092497,17861-6,Calcium
+1092498,2951-2,Sodium
+1092499,2823-3,Potassium
+1092500,2075-0,Chloride
+1092501,2028-9,Carbon Dioxide
+1092502,33037-3,Anion Gap
+1092503,2885-2,Protein
+1092504,1751-7,Albumin
+1092505,10834-0,Globulin
+1092506,6768-6,Alkaline Phosphatase
+1092507,80271-0,Physical findings of Abdomen by Palpation
+1195825,71970-8,PROMIS-10 Global Mental Health (GMH) score
+1195826,71972-4,PROMIS-10 Global Physical Health (GPH) score

@@ -1,0 +1,31 @@
+Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+601869	471961000124101	Fear of contracting disease caused by severe acute respiratory syndrome coronavirus 2	Clinical Finding	Condition	SNOMED	Valid	Standard
+605554	1119302008	Acute COVID-19	Clinical Finding	Condition	SNOMED	Valid	Standard
+606445	1145003007	Hypersensitivity to SARS-CoV-2 mRNA vaccine	Clinical Finding	Condition	SNOMED	Valid	Standard
+619428	895448002	Multisystem inflammatory syndrome in children	Clinical Finding	Condition	SNOMED	Valid	Standard
+703445	1300591000000101	Low risk category for developing complication from COVID-19 infection	Clinical Finding	Condition	SNOMED	Valid	Standard
+703446	1300571000000100	Moderate risk category for developing complication from COVID-19 infection	Clinical Finding	Condition	SNOMED	Valid	Standard
+703447	1300561000000107	High risk category for developing complication from COVID-19 infection	Clinical Finding	Condition	SNOMED	Valid	Standard
+705076	OMOP5160861	Post-acute COVID-19	Clinical Finding	Condition	OMOP Extension	Valid	Standard
+756031	OMOP4873909	Bronchitis caused by COVID-19	Clinical Finding	Condition	OMOP Extension	Valid	Standard
+756039	OMOP4873907	Respiratory infection caused by COVID-19	Clinical Finding	Condition	OMOP Extension	Valid	Standard
+1340294	OMOP5165949	Exacerbation of COVID-19	Clinical Finding	Condition	OMOP Extension	Valid	Standard
+3655973	870577009	At increased risk of exposure to Severe acute respiratory syndrome coronavirus 2	Clinical Finding	Condition	SNOMED	Valid	Standard
+3655975	870588003	Sepsis due to disease caused by Severe acute respiratory syndrome coronavirus 2	Clinical Finding	Condition	SNOMED	Valid	Standard
+3655976	870590002	Acute hypoxemic respiratory failure due to disease caused by Severe acute respiratory syndrome coronavirus 2	Clinical Finding	Condition	SNOMED	Valid	Standard
+3655977	870591003	Rhabdomyolysis due to disease caused by Severe acute respiratory syndrome coronavirus 2	Clinical Finding	Condition	SNOMED	Valid	Standard
+3656667	119731000146105	Cardiomyopathy due to disease caused by Severe acute respiratory syndrome coronavirus 2	Clinical Finding	Condition	SNOMED	Valid	Standard
+3656668	119741000146102	Conjunctivitis due to disease caused by Severe acute respiratory syndrome coronavirus 2	Clinical Finding	Condition	SNOMED	Valid	Standard
+3661405	138389411000119105	Acute bronchitis caused by SARS-CoV-2	Clinical Finding	Condition	SNOMED	Valid	Standard
+3661406	674814021000119106	Acute respiratory distress syndrome due to disease caused by Severe acute respiratory syndrome coronavirus 2	Clinical Finding	Condition	SNOMED	Valid	Standard
+3661408	882784691000119100	Pneumonia caused by SARS-CoV-2	Clinical Finding	Condition	SNOMED	Valid	Standard
+3661631	866151004	Lymphocytopenia due to Severe acute respiratory syndrome coronavirus 2	Clinical Finding	Condition	SNOMED	Valid	Standard
+3661632	866152006	Thrombocytopenia due to Severe acute respiratory syndrome coronavirus 2	Clinical Finding	Condition	SNOMED	Valid	Standard
+3661748	870589006	Acute kidney injury due to disease caused by Severe acute respiratory syndrome coronavirus 2	Clinical Finding	Condition	SNOMED	Valid	Standard
+3662381	189486241000119100	Asymptomatic SARS-CoV-2	Clinical Finding	Condition	SNOMED	Valid	Standard
+3663281	880529761000119102	Lower respiratory infection caused by SARS-CoV-2	Clinical Finding	Condition	SNOMED	Valid	Standard
+4083307	247459000	Acne scar	Clinical Finding	Condition	SNOMED	Valid	Standard
+37310254	1240521000000100	Otitis media due to disease caused by Severe acute respiratory syndrome coronavirus 2	Clinical Finding	Condition	SNOMED	Valid	Standard
+37310284	1240561000000108	Encephalopathy due to disease caused by Severe acute respiratory syndrome coronavirus 2	Clinical Finding	Condition	SNOMED	Valid	Standard
+37310287	1240531000000103	Myocarditis due to disease caused by Severe acute respiratory syndrome coronavirus 2	Clinical Finding	Condition	SNOMED	Valid	Standard
+37311061	840539006	COVID-19	Clinical Finding	Condition	SNOMED	Valid	Standard
